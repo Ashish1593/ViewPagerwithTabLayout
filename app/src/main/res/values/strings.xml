@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Glynk Assignment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movies">Movies</string>
+    <string name="design">Design</string>
+    <string name="technologies">Technoogies</string>
+    <string name="politics">Politics</string>
+    <string name="sports">Sports</string>
+</resources>
